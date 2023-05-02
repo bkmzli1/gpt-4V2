@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gpt-4V2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
